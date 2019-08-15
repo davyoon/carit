@@ -14,7 +14,7 @@ class Api::V1::ParkingsController < ApplicationController
 		render json: {overview: @overview_polyline, parking: parkings}
 	end
 	def create
-		parking = Parking.create({user_id: session[:user_id], time_up: params[:time_up], carLongitude: params[:carLongitude], carLatitude: params[:carLatitude], currentLongitude: "-73.98961020000002", currentLatitude: "40.7400668"})
+		parking = Parking.create({user_id: session[:user_id], time_up: params[:time_up], carLongitude: "-73.9906", carLatitude: "40.7356", currentLongitude: "-73.98961020000002", currentLatitude: "40.7400668"})
 		# send_user_text_message(run_at: params[:time_up])
 		render json: parking
 	end
