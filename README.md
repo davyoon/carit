@@ -1,7 +1,7 @@
 ## Description
 Has this ever happened to you? You park your car around an unfamiliar area or you're new to the town and you forget where you parked. Well then this app is for you. With a click of a button, you can store your car location and get directions back with Google map. If you parked with a time meter, you can also add minutes to keep a reminder of when it's going to expired.
 
-<a href="http://s61.photobucket.com/user/mx22o/media/Screen%20Shot%202015-09-21%20at%203.23.50%20PM_zpse4gbgpnm.png.html" target="_blank"><img src="http://i61.photobucket.com/albums/h80/mx22o/Screen%20Shot%202015-09-21%20at%203.23.50%20PM_zpse4gbgpnm.png" border="0" alt=" photo Screen Shot 2015-09-21 at 3.23.50 PM_zpse4gbgpnm.png"/></a>
+<a href="http://s61.photobucket.com/user/mx22o/media/Screen%20Shot%202015-09-21%20at%203.23.50%20PM_zpse4gbgpnm.png.html" target="_blank"><img src="./app/assets/images/pic1.png"/></a>
 
 ## Team Members
 * David Yoon
